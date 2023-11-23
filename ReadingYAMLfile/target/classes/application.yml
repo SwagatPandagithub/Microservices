@@ -1,0 +1,7 @@
+demo:
+  properties:
+    greetmsg: hi, Good Morning
+    testmsg: this is a test message
+    welcomemsg: Welcome to India
+server:
+  port: 9999
